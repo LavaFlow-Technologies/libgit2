@@ -26,6 +26,7 @@
 #include "streams/openssl.h"
 #include "streams/socket.h"
 #include "transports/ssh_libssh2.h"
+#include "util/errors.h"
 
 #ifdef GIT_WIN32
 # include "win32/w32_leakcheck.h"

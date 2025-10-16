@@ -16,7 +16,7 @@
 
 #include "refspec.h"
 #include "vector.h"
-#include "net.h"
+#include "util/net.h"
 #include "proxy.h"
 
 #define GIT_REMOTE_ORIGIN "origin"

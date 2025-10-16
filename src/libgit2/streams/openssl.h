@@ -8,6 +8,8 @@
 #define INCLUDE_streams_openssl_h__
 
 #include "common.h"
+#include "git2_features.h"
+#include "git2/common.h"
 #include "streams/openssl_legacy.h"
 #include "streams/openssl_dynamic.h"
 

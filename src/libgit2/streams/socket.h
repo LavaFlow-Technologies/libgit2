@@ -8,6 +8,7 @@
 #define INCLUDE_streams_socket_h__
 
 #include "common.h"
+#include "libgit2/common.h"
 
 #include "stream.h"
 

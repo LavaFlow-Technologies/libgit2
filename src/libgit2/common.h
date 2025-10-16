@@ -8,7 +8,7 @@
 #define INCLUDE_common_h__
 
 #include "git2_util.h"
-#include "errors.h"
+#include "util/errors.h"
 
 /*
 * Include the declarations for deprecated functions; this ensures
